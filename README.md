@@ -24,4 +24,8 @@ instead.
   sidebar should auto-open on mobile. Editable from the component's Settings
   tab in the admin panel. Default: `glosario`, `trading-curso`, `wiki`.
 
+## License
+
+MIT. See [LICENSE](LICENSE). Started from a 2023 component by VaperinaDEV; none of its code remains.
+
 Text of this README under [CC BY-NC-SA 4.0](CC-BY-NC-SA-4.0.txt).

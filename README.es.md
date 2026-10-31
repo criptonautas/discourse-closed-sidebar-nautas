@@ -24,4 +24,8 @@ automáticamente.
   barra lateral debe abrirse automáticamente en móvil. Se edita desde la pestaña
   Ajustes del componente en el panel de administración. Por defecto: `glosario`, `trading-curso`, `wiki`.
 
+## Licencia
+
+MIT. Consulta [LICENSE](LICENSE). Partió de un componente de 2023 de VaperinaDEV; no queda nada de su código.
+
 Texto de este README bajo [CC BY-NC-SA 4.0](CC-BY-NC-SA-4.0.txt).
